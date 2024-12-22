@@ -1,0 +1,72 @@
+baseURL = "https://giography.vercel.app/"
+copyright = "© Giovani Valdriz | 2024"
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "term"]
+enableRobotsTXT = true
+languageCode = "en"
+timeZone = "Asia/Manila"
+timeout = "1200s"
+title = "giography"
+
+[related]
+  includeNewer = true
+  threshold = 10
+  toLower = false
+  [[related.indices]]
+    applyFilter = false
+    cardinalityThreshold = 0
+    name = 'categories'
+    pattern = ''
+    toLower = false
+    type = 'basic'
+    weight = 10
+  [[related.indices]]
+    applyFilter = false
+    cardinalityThreshold = 0
+    name = 'keywords'
+    pattern = ''
+    toLower = false
+    type = 'basic'
+    weight = 50
+
+[params]
+  defaultTheme = "dark"
+  description = "Official Photofolio of giography"
+  title = "giography"
+  [params.author]
+    email = "zirdl.giography@gmail.com"
+    name = "gio"
+  [params.socialIcons]
+    facebook = "https://www.facebook.com/giography.zirdl"
+    email = "mailto:user@example.com"
+    website = "https://zirdl.github.io"
+    #mastodon = "https://example.com"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
+
+[module]
+  [module.hugoVersion]
+    min = "0.121.2"
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
+[menu]
+  [[menu.footer]]
+    name = "GitHub"
+    url = "https://github.com/zirdl/"
+    weight = 3
+
+[services]
+  [services.rss]
+    limit = 5

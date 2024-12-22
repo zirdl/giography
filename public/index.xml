@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>giography</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on giography</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zirdl.giography@gmail.com (gio)</managingEditor>
+    <webMaster>zirdl.giography@gmail.com (gio)</webMaster>
+    <copyright>© Giovani Valdriz | 2024</copyright>
+    <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sa Kalye Palengke</title>
+      <link>http://localhost:1313/kalye/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author>
+      <guid>http://localhost:1313/kalye/</guid><media:content url="http://localhost:1313/kalye/images/101_out_est_hu94dc00e036d9e7eeb0852b608ffef314_3830372_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/kalye/images/101_out_est_hu94dc00e036d9e7eeb0852b608ffef314_3830372_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Bagama&#39;t ilang buwan nalang ang nalalabi bago matapos ang taon, wala pa ring opisyal na pahayag ang mga awtoridad patungkol sa pinagmulan ng apoy na tumupok sa naturang pamilihan na siyang naging sentro ng paghahanap-buhay ng mga mamamayan ng Siyudad.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Biag ti Mangngalap: Visual Narratives from Amianan Fisherfolk Communities</title>
+      <link>http://localhost:1313/events/mangngalap_exhibit/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author>
+      <guid>http://localhost:1313/events/mangngalap_exhibit/</guid><media:content url="http://localhost:1313/events/mangngalap_exhibit/featured_hubd58c4ac3aed84769de01632daf64933_13762227_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/events/mangngalap_exhibit/featured_hubd58c4ac3aed84769de01632daf64933_13762227_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Snaps during the exhibit opening at Alfredo Tadiar Library, where we got to hear the voices, primarily, of the fisherfolk community. Curator&#39;s note/speech, and artists&#39; statements were also heard before the exhibit was opened.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>ft. Barbara</title>
+      <link>http://localhost:1313/portraits/barbara/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author>
+      <guid>http://localhost:1313/portraits/barbara/</guid><media:content url="http://localhost:1313/portraits/barbara/featured_hubd58c4ac3aed84769de01632daf64933_8029795_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/portraits/barbara/featured_hubd58c4ac3aed84769de01632daf64933_8029795_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Featuring the one and only babylovidovicakessugarpiehoneplum&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Black and White</title>
+      <link>http://localhost:1313/street/bw/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author>
+      <guid>http://localhost:1313/street/bw/</guid><media:content url="http://localhost:1313/street/bw/DSC05489_hu5cbebd007871561f39cb1c700690fb50_8180860_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/street/bw/DSC05489_hu5cbebd007871561f39cb1c700690fb50_8180860_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Color</title>
+      <link>http://localhost:1313/street/color/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0800</pubDate><author>zirdl.giography@gmail.com (gio)</author>
+      <guid>http://localhost:1313/street/color/</guid><media:content url="http://localhost:1313/street/color/DSC05630_hu23343cbccaee26bf928ee742f34e0e31_4144911_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/street/color/DSC05630_hu23343cbccaee26bf928ee742f34e0e31_4144911_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
