@@ -41,6 +41,15 @@ title = "giography"
     email = "mailto:user@example.com"
     website = "https://zirdl.github.io"
     #mastodon = "https://example.com"
+  # [params.search]
+  #   filter_taxonomies = false
+  #   filter_years = false
+  #   ignore_location = true
+  #   index_all_pages = false
+  #   max_results = 20
+  #   threshold = 0.3
+  #   expand_results_meta = true
+  #   histories = false
 
 [outputs]
   home = ["HTML", "RSS"]
