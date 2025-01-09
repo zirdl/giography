@@ -1,14 +1,12 @@
 ---
 layout: page
 rss_ignore: true
-title: About
+title: Welcome to giography's gallery!
 menu:
   main:
     weight: 90
 ---
 
-# Hello there!
-I'm **Gio**, an amateur photographer and tech enthusiast based in San Juan, La Union. My forte is mostly on **documentary, event** and **street photography**, but I can also do artistic or commissioned portraits.
-I made this minimal website; focusing more on the photographs, to showcase my works and progress as an amateur. Consider bookmarking this website, if you want to visit it from time-to-time and witness my progress.
+This online gallery presents the stories that took over the months of 2024; documenting the **mundane and the extraordinary** experiences of people as **part of the society**, the remarkable **local events** supporting the diverse creative industries of La Union, and the **celebration of artistic expression** of my fellow artists.
 
-
+To learn more about **giography as a business**, you might like to visit the landing page [here](https://giography.vercel.app) or contact Gio directly through the links provided on the footer below.  
