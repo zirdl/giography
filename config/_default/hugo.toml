@@ -30,7 +30,7 @@ title = "giography"
     weight = 50
 
 [params]
-  defaultTheme = "dark"
+  defaultTheme = "light"
   description = "Official Photofolio of giography"
   title = "giography"
   [params.author]
